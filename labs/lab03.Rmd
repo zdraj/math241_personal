@@ -87,7 +87,6 @@ e. Provide code that gives us the second entry in `sets` from `dats`.
 
 ```{r}
 dats$sets[2]
-
 ```
 
 
